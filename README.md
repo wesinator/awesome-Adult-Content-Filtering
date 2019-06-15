@@ -2,7 +2,7 @@
 A curated list of tools and resources for adult content/porn accountability and filtering
 
 #### Safe browsers:
-  - [SPIN Safe Browser](https://useboomerang.com/spin/)
+  - [SPIN Safe Browser](https://useboomerang.com/spin/)  |  [Manage SPIN](https://nationaledtech.com/portfolio/manage-spin-safe-browser/)
 
 #### Mobile blockers:
   - [BlockSite](https://play.google.com/store/apps/details?id=co.blocksite)
