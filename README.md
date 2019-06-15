@@ -11,6 +11,7 @@ A curated list of tools and resources for adult content/porn accountability and 
 #### Parental control:
   - [Boomerang](https://useboomerang.com/)
   - [Mobicip](https://www.mobicip.com/)
+  - [Windows 10 and Xbox content restrictions](https://support.microsoft.com/en-us/help/12439/microsoft-account-set-content-restrictions-on-windows-10-and-xbox-one)
 
 #### Browser extensions:
  - [FoxFilter](https://www.foxfilter.com/)
