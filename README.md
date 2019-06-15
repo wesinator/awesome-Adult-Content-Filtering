@@ -22,6 +22,7 @@ A curated list of tools and resources for adult content/porn accountability and 
  - [Neustar Family Secure](https://www.home.neustar/dns-services/ultra-recursive-dns)
 
 #### Accountability:
+  - [CovenantEyes](https://www.covenanteyes.com/)
   - [EverAccountable](https://everaccountable.com)
   - [RealMenDontPorn](https://play.google.com/store/apps/details?id=net.truonghieu.rmdp)
   - [Truple](https://truple.io/)
