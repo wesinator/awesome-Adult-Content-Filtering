@@ -22,6 +22,10 @@ A curated list of tools and resources for adult content/porn accountability and 
  - [OpenDNS FamilyShield](https://www.opendns.com/setupguide/#familyshield)
  - [Neustar Family Secure](https://www.home.neustar/dns-services/ultra-recursive-dns)
 
+#### DNS changer apps
+ - [Blokada](https://play.google.com/store/apps/details?id=org.blokada.alarm.dnschanger)
+ - [Lilly](https://play.google.com/store/apps/details?id=com.aykutcevik.dnschanger)
+
 #### Accountability:
   - [CovenantEyes](https://www.covenanteyes.com/)
   - [EverAccountable](https://everaccountable.com)
