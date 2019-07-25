@@ -15,6 +15,7 @@ A curated list of tools and resources for adult content/porn accountability and 
 
 #### Browser extensions:
  - [FoxFilter](https://www.foxfilter.com/)
+ - [JSGuardian Web Site Filter](https://github.com/serv-inc/JSGuardian)
 
 #### DNS filters (public):
  - [CleanBrowsing (for parents/kids/families)](https://cleanbrowsing.org/pg-13)
