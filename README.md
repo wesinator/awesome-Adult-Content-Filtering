@@ -18,10 +18,12 @@ A curated list of tools and resources for adult content/porn accountability and 
  - [JSGuardian Web Site Filter](https://github.com/serv-inc/JSGuardian)
 
 #### DNS filters (public):
+ - [AdGuard DNS Family protection](https://adguard.com/adguard-dns/overview.html)
  - [CleanBrowsing (for parents/kids/families)](https://cleanbrowsing.org/pg-13)
  - [CleanBrowsing (for adults)](https://cleanbrowsing.org/for-adults)
  - [OpenDNS FamilyShield](https://www.opendns.com/setupguide/#familyshield)
  - [Neustar Family Secure](https://www.home.neustar/dns-services/ultra-recursive-dns)
+ - [Yandex.DNS Family](https://dns.yandex.com/advanced/)
 
 #### DNS changer apps
  - [Blokada](https://play.google.com/store/apps/details?id=org.blokada.alarm.dnschanger)
