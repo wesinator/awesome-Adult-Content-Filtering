@@ -29,12 +29,12 @@ For children, families, and adults.
  - [Neustar Family Secure](https://www.publicdns.neustar)
  - [Yandex.DNS Family](https://dns.yandex.com/advanced/)
 
-#### DNS changer apps
-  - [Blokada](https://blokada.org/#download)
-    #### Android
-     - [Lilly](https://play.google.com/store/apps/details?id=com.aykutcevik.dnschanger)
-    #### iOS
-     - [DNSCloak](https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351)
+    ### DNS changer apps
+    - [Blokada](https://blokada.org/#download)
+        #### Android
+         - [Lilly](https://play.google.com/store/apps/details?id=com.aykutcevik.dnschanger)
+        #### iOS
+         - [DNSCloak](https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351)
 
 ### Accountability:
   - [CovenantEyes](https://www.covenanteyes.com/)
