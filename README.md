@@ -33,6 +33,7 @@ For children, families, and adults.
     - [Blokada](https://blokada.org/#download)
     - [Surfshark Trust DNS](https://surfshark.com/trust-dns)
         #### Android
+         - [Intra (by Jigsaw, a Google project)](https://play.google.com/store/apps/details?id=app.intra)
          - [Lilly](https://play.google.com/store/apps/details?id=com.aykutcevik.dnschanger)
         #### iOS
          - [DNSCloak](https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351)
