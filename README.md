@@ -31,6 +31,7 @@ For children, families, and adults.
 
     ### DNS changer apps
     - [Blokada](https://blokada.org/#download)
+    - [Surfshark Trust DNS](https://surfshark.com/trust-dns)
         #### Android
          - [Lilly](https://play.google.com/store/apps/details?id=com.aykutcevik.dnschanger)
         #### iOS
