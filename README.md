@@ -1,5 +1,5 @@
-# Awesome-Adult-Filtering-Accountability
-A curated list of tools and resources for adult content/porn accountability and filtering.
+# 
+A curated list of tools and resources for online adult content/porn filtering, and accountability.
 
 For children, families, and adults.
 
