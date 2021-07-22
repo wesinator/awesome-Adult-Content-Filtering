@@ -23,8 +23,8 @@ For children, families, and adults.
 
 ### DNS filters (public):
  - [AdGuard DNS Family protection](https://adguard.com/adguard-dns/overview.html)
- - [CleanBrowsing (for parents/kids/families)](https://cleanbrowsing.org/pg-13)
- - [CleanBrowsing (for adults)](https://cleanbrowsing.org/for-adults)
+ - [CleanBrowsing (for parents/kids/families)](https://cleanbrowsing.org/filters/)
+ - [CleanBrowsing (for adults)](https://cleanbrowsing.org/filters/)
  - [OpenDNS FamilyShield](https://www.opendns.com/setupguide/#familyshield)
  - [Neustar Family Secure](https://www.publicdns.neustar)
  - [Yandex.DNS Family](https://dns.yandex.com/advanced/)
