@@ -25,6 +25,7 @@ For children, families, and adults.
  - [AdGuard DNS Family protection](https://adguard.com/adguard-dns/overview.html)
  - [CleanBrowsing (for parents/kids/families)](https://cleanbrowsing.org/filters/)
  - [CleanBrowsing (for adults)](https://cleanbrowsing.org/filters/)
+ - [Cloudflare DNS for Families](https://one.one.one.one/family/)
  - [OpenDNS FamilyShield](https://www.opendns.com/setupguide/#familyshield)
  - [Neustar Family Secure](https://www.publicdns.neustar)
  - [Yandex.DNS Family](https://dns.yandex.com/advanced/)
@@ -37,6 +38,7 @@ For children, families, and adults.
          - [Lilly](https://play.google.com/store/apps/details?id=com.aykutcevik.dnschanger)
         #### iOS
          - [DNSCloak](https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351)
+         - [Encrypted DNS profiles](https://github.com/paulmillr/encrypted-dns) (Advanced)
 
 ### Accountability:
   - [CovenantEyes](https://www.covenanteyes.com/)
