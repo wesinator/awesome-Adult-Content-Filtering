@@ -25,7 +25,7 @@ For children, families, and adults.
  - [AdGuard DNS Family protection](https://adguard.com/adguard-dns/overview.html)
  - [CleanBrowsing (for parents/kids/families)](https://cleanbrowsing.org/filters/)
  - [CleanBrowsing (for adults)](https://cleanbrowsing.org/filters/)
- - [Cloudflare DNS for Families](https://one.one.one.one/family/) (1.1.1.3)
+ - [Cloudflare DNS for Families](https://developers.cloudflare.com/1.1.1.1/setup/#1111-for-families) (resolver: `1.1.1.3`)
  - [OpenDNS FamilyShield](https://www.opendns.com/setupguide/#familyshield)
  - [Neustar Family Secure](https://www.publicdns.neustar)
  - [Yandex.DNS Family](https://dns.yandex.com/advanced/)
