@@ -44,7 +44,7 @@ For children, families, and adults.
   - [Accountable2you](https://accountable2you.com/)
   - [CovenantEyes](https://www.covenanteyes.com/)
   - [EverAccountable](https://everaccountable.com)
-  - [LeadMeNot] (https://leadmenot.org)
+  - [LeadMeNot](https://www.leadmenot.org)
   - [RealMenDontPorn](https://play.google.com/store/apps/details?id=net.truonghieu.rmdp)
   - [Truple](https://truple.io/)
   - [Trustablee](https://play.google.com/store/apps/details?id=com.androidapp.watchme)
