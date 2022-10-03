@@ -14,8 +14,9 @@ For children, families, and adults.
   - [Boomerang](https://useboomerang.com/)
   - [Kaspersky Safe Kids](https://kids.kaspersky.com/safe-kids/)
   - [Mobicip](https://www.mobicip.com/)
-  - [О! Safe Kids (KG)](https://play.google.com/store/apps/details?id=kg.o.safekids)
   - [Windows 10 and Xbox content restrictions](https://support.microsoft.com/en-us/help/12439/microsoft-account-set-content-restrictions-on-windows-10-and-xbox-one)
+    #### International
+      - [О! Safe Kids](https://play.google.com/store/apps/details?id=kg.o.safekids) (Central Asia)
 
 ### Browser extensions:
  - [FoxFilter](https://www.foxfilter.com/)
