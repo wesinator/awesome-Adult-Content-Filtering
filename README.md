@@ -41,6 +41,7 @@ For children, families, and adults.
          - [Encrypted DNS profiles](https://github.com/paulmillr/encrypted-dns) (Advanced)
 
 ### Accountability:
+  - [Accountable2you](https://accountable2you.com/)
   - [CovenantEyes](https://www.covenanteyes.com/)
   - [EverAccountable](https://everaccountable.com)
   - [RealMenDontPorn](https://play.google.com/store/apps/details?id=net.truonghieu.rmdp)
