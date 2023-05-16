@@ -43,6 +43,7 @@ For children, families, and adults.
          - [Encrypted DNS profiles](https://github.com/paulmillr/encrypted-dns) (Advanced)
 
 ### Accountability:
+  - [Lion Accountability Browser](https://lionbrowser.app)
   - [Accountable2you](https://accountable2you.com/)
   - [CovenantEyes](https://www.covenanteyes.com/)
   - [EverAccountable](https://everaccountable.com)
