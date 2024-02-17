@@ -17,7 +17,7 @@ For children, families, and adults.
   - [Mobicip](https://www.mobicip.com/)
   - [Windows 10 and Xbox content restrictions](https://support.microsoft.com/en-us/help/12439/microsoft-account-set-content-restrictions-on-windows-10-and-xbox-one)
     #### International
-      - [О! Safe Kids](https://play.google.com/store/apps/details?id=kg.o.safekids) (Central Asia)
+      - [О! Safe Kids](https://play.google.com/store/apps/details?id=kg.nurtelecom.safekids) (Central Asia)
 
 ### Browser extensions:
  - [FoxFilter](https://www.foxfilter.com/)
