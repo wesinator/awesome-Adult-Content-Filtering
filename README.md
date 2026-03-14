@@ -9,6 +9,7 @@ For children, families, and adults.
 ### Mobile blockers:
   - [BlockSite](https://play.google.com/store/apps/details?id=co.blocksite)
   - [DETOXIFY](https://play.google.com/store/apps/details?id=com.familyfirsttechnology.pornblocker)
+  - [Andoff](https://docs.andoff.one/how-to-install)
   - [Safashield (iOS)](https://www.safashield.com/)
    
 ### Parental control:
