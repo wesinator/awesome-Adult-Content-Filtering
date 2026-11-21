@@ -7,6 +7,7 @@ For children, families, and adults.
   - [SPIN Safe Browser](https://useboomerang.com/spin/)  |  [Manage SPIN](https://nationaledtech.com/portfolio/manage-spin-safe-browser/)
 
 ### Mobile blockers:
+  - [B-Simple](https://play.google.com/store/apps/details?id=app.bsimple.android)
   - [BlockSite](https://play.google.com/store/apps/details?id=co.blocksite)
   - [DETOXIFY](https://play.google.com/store/apps/details?id=com.familyfirsttechnology.pornblocker)
   - [Safashield (iOS)](https://www.safashield.com/)
